@@ -38,6 +38,11 @@
     </div>
     <table id="dataTable">
         <thead>
+        <tbody>
+            <tr>
+                <td>BY : HR STORE</td>
+                <td>WA : 6287864055410</td>
+                <td>THX</td>
             <tr>
                 <th>Provinsi</th>
                 <th>Kota/Kabupaten</th>
