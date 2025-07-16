@@ -13,9 +13,9 @@
         }
         input[type="text"] {
             width: 10%;
-            padding: 10px;
-            margin-top: 10px;
-            margin-bottom: *10px;
+            padding: 1px;
+            margin-top: 1px;
+            margin-bottom: *1*x;
             box-sizing: border-box;
         }
         table {
